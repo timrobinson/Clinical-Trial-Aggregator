@@ -2,9 +2,11 @@
 Python script that collects clinical trials from www.clinicaltrials.gov based on the users specification (disease, type of therapy, location, trial conditions (on-going, completed, etc)), and graphs the location of the trial sites on a map.
 
 **A script diagram:**
+
 ![Clinical Trials Data Aggregator Pipeline](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/bd5b4bee-15df-431e-b833-e0a203d30d3a)
 
-The program provides a map with locations of all trial sites for trials with parameters the user specifies.  For example, the map below shows all the clinical trials for Parkinson's Disease either currently active and recruiter, and not yet recruiting.  The user also specifies the location; in this case United States was specified.  The program also provides a legend/bar chart that associates the color of the marker with the NCT trial number.  The length of the bar indicates the number of sites for the particular trial.  With this example, the type therapy was not specified.
+
+The program provides a map with locations of all trial sites for trials with parameters the user specifies.  For example, the map below shows all the clinical trials for Parkinson's Disease either currently active and recruiter, and not yet recruiting.  The user also specifies the location; in this case United States was specified.  The program also provides a legend/bar chart that associates the color of the marker with the NCT trial number.  The length of the bar indicates the number of sites for the particular trial.  With this example, the type therapy was not specified.  All user selected conditions are listed in the map title
 
 **Example Output 1 (minus my commentary in the last column of the table:**
 
