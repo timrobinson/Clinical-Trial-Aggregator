@@ -2,7 +2,7 @@
 Python script that collects clinical trials from www.clinicaltrials.gov based on the users specification (disease, type of therapy, location, trial conditions (on-going, completed, etc)), and graphs the location of the trial sites on a map.   The script assumes that the clinicaltrials.gov database is accurate - and this is ***generally*** true.   Please know that there are excellent sites with freely available clinical trial aggregators that provide assistance for those in need.   Sites like https://sparkcures.com/ verify their database and are set-up to help match patient to clinical trial.  In contrast, the script in this repo was developed for academic research.
  
 
-**A script diagram:**
+**A script pipeline:**
 
 ![Clinical Trials Data Aggregator Pipeline](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/bd5b4bee-15df-431e-b833-e0a203d30d3a)
 
