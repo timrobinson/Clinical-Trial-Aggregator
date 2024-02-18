@@ -4,7 +4,7 @@ Python script that collects clinical trials from www.clinicaltrials.gov based on
 Please know that there are excellent organizations with freely available on-line clinical trial aggregators, and that provide assistance for those in need.   Sites like https://sparkcures.com/ verify their database and are set-up to help match patient to clinical trial.  In contrast, the script in this repo was developed for academic research.
  
 
-**A script pipeline:**
+**The script pipeline:**
 
 ![Clinical Trials Data Aggregator Pipeline](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/bd5b4bee-15df-431e-b833-e0a203d30d3a)
 
