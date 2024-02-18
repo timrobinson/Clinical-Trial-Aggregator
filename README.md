@@ -15,5 +15,5 @@ With the second example, the location has been changed to South Africa.  Also, t
 
 **Example Output 2:**
 <p align="center">
-![HIV_South_Africa](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/9167ed60-45ce-4c4d-91d2-cfb8bdd55cf8)
+<![HIV_South_Africa](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/9167ed60-45ce-4c4d-91d2-cfb8bdd55cf8)>
 </p>
