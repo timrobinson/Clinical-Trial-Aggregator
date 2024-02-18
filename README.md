@@ -1,5 +1,5 @@
 # Clinical-Trial-Aggregator
-Python script that collects clinical trials from www.clinicaltrials.gov based on the users specification (disease, type of therapy, location, trial conditions (on-going, completed, etc)), and graphs the location of the trial sites on a map.   The script assumes that the clinicaltrials.gov database is accurate - and this is * *generally* * true.   However, there are excellent sites with clinical trial aggregators that provide assistance for those in need.   Sites like https://sparkcures.com/ verify their database and are set-up to help match patient to clinical trial. 
+Python script that collects clinical trials from www.clinicaltrials.gov based on the users specification (disease, type of therapy, location, trial conditions (on-going, completed, etc)), and graphs the location of the trial sites on a map.   The script assumes that the clinicaltrials.gov database is accurate - and this is *generally* true.   However, there are excellent sites with clinical trial aggregators that provide assistance for those in need.   Sites like https://sparkcures.com/ verify their database and are set-up to help match patient to clinical trial. 
  
 
 **A script diagram:**
