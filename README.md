@@ -4,3 +4,5 @@ Python script that collects clinical trials from www.clinicaltrials.gov based on
 **A script diagram:**
 ![Clinical Trials Data Aggregator Pipeline](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/bd5b4bee-15df-431e-b833-e0a203d30d3a)
 
+**Example Output (minus my commentary in the last column of the table:**
+![Parkinsons Disease](https://github.com/timrobinson/Clinical-Trial-Aggregator/assets/15863043/50ca46b5-c00a-460e-9bdb-9bb5536b680b)
